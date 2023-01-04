@@ -8,3 +8,20 @@ h1 {
     font-size: 40px;
 }
 
+h2 {
+    background-color: lightyellow;
+    color: lightgreen;
+}
+
+.indiv {
+    width: 300px;
+    height: 300px;
+}
+
+.lasol {
+    color: lightskyblue;
+}
+
+.lassp {
+    color: blue;
+}
